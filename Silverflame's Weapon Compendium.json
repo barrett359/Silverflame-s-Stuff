@@ -1,0 +1,538 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "SW",
+				"abbreviation": "SWC",
+				"full": "Silverflame's Weapon Compendium",
+				"authors": [
+					"Barrett, Goat"
+				],
+				"convertedBy": [
+					"Barrett"
+				],
+				"url": "",
+				"version": "1.0",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 1623880710,
+		"dateLastModified": 1623880710
+	},
+	"itemProperty": [
+        {
+			"abbreviation": "BSW",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Backswing",
+					"entries": [
+						"When you make a weapon attack with this weapon and miss, your next attack roll with this weapon on this turn has advantage."
+					]
+				}
+			]
+		},        
+        {
+			"abbreviation": "BAN",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Bandoleer",
+					"entries": [
+						"When making a thrown weapon attack, you draw the weapon from an appropriate container or case as part of the attack."
+					]
+				}
+			]
+		},
+        {
+			"abbreviation": "BLA",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Bladed",
+					"entries": [
+						"The damage type of this weapon is piercing or slashing (your choice)."
+					]
+				}
+			]
+		},
+        {
+			"abbreviation": "BRA",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Bracing",
+					"entries": [
+						"You can use an action to set a spear or swing a heavy whip to deny entry into the area you threaten. Until the beginning of your next turn, if a creature moves at least 10 feet and enters the reach of your weapon, you can use your reaction to make an opportunity attack against that creature. If this attack hits, add an additional weapon die to the damage roll, and the creature must make a Strength saving throw. On a failure, it falls prone and, if mounted, falls from its mount."
+					]
+				}
+			]
+		},
+        {
+			"abbreviation": "COV",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Covert",
+					"entries": [
+						"If you are hidden, a missing a ranged attack with this weapon does not reveal your location."
+					]
+				}
+			]
+		},
+        {
+			"abbreviation": "CQ",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Close Quarters",
+					"entries": [
+						"When you successfully grapple or escape a grapple, you can make one weapon attack as a bonus action. When an opponent fails to escape your grapple, you can make a weapon attack as a reaction."
+					]
+				}
+			]
+		},
+		{
+			"abbreviation": "DBL",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Double",
+					"entries": [
+						"A weapon with this property can be wielded with two hands and used as if fighting with two weapons. You incur the same penalties as you normally would for fighting with an off-hand light weapon. You can choose to use either end of the weapon normally instead of using it as a double weapon."
+					]
+				}
+			]
+		},
+        {
+			"abbreviation": "EG",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Entangle",
+					"entries": [
+						"You can make a disarm, grapple, shove, or trip attack while up to 10 feet from your target by using the extra reach of your weapon. Your reach for the grappled condition when using this weapon is 10 feet instead of 5 feet. If you successfully shove a creature using this weapon, you can pull the target five feet closer. Additionally, you can use Dexterity (Acrobatics) instead of Strength (Athletics) for your opposed grapple check. If you grapple a target at range, you cannot use this weapon to attack another target until the grapple ends."    
+					]
+				}
+			]
+		},
+        {
+			"abbreviation": "ET",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Entrapping",
+					"entries": [
+						"When you want to catch and restrain a weapon in combat, you can use the Attack action to make a special melee attack, an entrapment attempt with this weapon. If you have multiple attacks as part of the Attack action, this replaces one of them. The target of your entrapment must be within the reach of your weapon and wielding a melee or ranged weapon. Make a Dexterity (Sleight of Hand) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) (its choice). A creature wielding a weapon in two hands has advantage on this check, and a creature larger than you automatically wins. If you win, the target can't make attacks with the entrapped weapon until the entrapment ends. You can't move out of your weapon's range, make an attack with the entrapping weapon, or drop your own weapon without releasing the entrapped weapon, which you can do at any time. If at any time the target is no longer within your weapon's reach, the entrapment ends."    
+					]
+				}
+			]
+		},
+        {
+			"abbreviation": "FIN",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Finisher",
+					"entries": [
+						"When you attack a prone or grappled opponent with this weapon, roll an additional damage die. Aditionally, attacking with this weapon from a prone position does not incur disadvantage."
+					]
+				}
+			]
+		},
+		{
+			"abbreviation": "ICD",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": ".Critical x3 -",
+					"entries": [
+						"When you score a critical hit with a weapon attack using this weapon, roll the weapon dice three times instead of twice."
+					]
+				}
+			]
+		},
+        {
+			"abbreviation": "ICR",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": ".Critical 19-20 -",
+					"entries": [
+						"You score a critical hit with this weaon on a roll of 19 or 20. If you already have this feature from another source, your critical range with this weapon is expanded by one"
+					]
+				}
+			]
+		},
+        {
+			"abbreviation": "PW",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Paired Weapon",
+					"entries": [
+						"While you wield both this weapon and a non-light weapon, you gain a +1 bonus to your AC. Once per turn, you can choose to add 1d4 to the damage roll of your other weapon. When you do so, you lose the bonus to AC until the beginning of your next turn, unless you have the Dual Wielder feat."
+					]
+				}
+			]
+		},
+        {
+			"abbreviation": "SG",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Siege",
+					"entries": [
+						"This weapon deals double damage to objects and structures."
+					]
+				}
+			]
+		},
+        {
+			"abbreviation": "HV",
+			"source": "SW",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Heavy",
+					"entries": [
+						"A heavy weapon's size or mass make it difficult to use without counterbalancing weight. Small and Tiny creatures have disadvantage on attack rolls with heavy weapons as if using a weapon sized for a larger attacker (DMG pg. 278). Small and Tiny creatures may craft versions of these weapons that are more suited to them, with the size of all damage dice reduced by 2 (e.g. 1d10 becomes 1d8, 2d6 becomes 2d4, etc.)."
+					]
+				}
+			]
+		}
+	],
+	"item": [
+		{
+			"name": "Club",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 10,
+			"weight": 3,
+			"dmg1": "1d4",
+			"dmgType": "B",
+			"property": [
+				"BSW",
+                "L"
+			],
+			"source": "SW"
+		},
+        {
+			"name": "Dagger",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 200,
+			"weight": 1,
+			"dmg1": "1d4",
+			"dmgType": "P",
+			"property": [
+                "CQ",
+				"F",
+                "FIN",
+                "L",
+                "ICR"
+			],
+			"source": "SW"
+		},
+        {
+			"name": "Throwing Dagger",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 100,
+			"weight": 0.5,
+			"dmg1": "1d4",
+			"dmgType": "P",
+			"property": [
+                "BAN",
+                "COV",
+				"F",
+                "L",
+                "T",
+                "ICR"
+                
+			],
+            "range": "20/60",
+			"source": "SW"
+		},
+        {
+			"name": "Greatclub",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 20,
+			"weight": 8,
+			"dmg1": "1d8",
+			"dmgType": "B",
+			"property": [
+				"BSW",
+                "2H",
+                "HV"
+			],
+			"source": "SW"
+		},
+        {
+			"name": "Handaxe",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 500,
+			"weight": 2,
+			"dmg1": "1d6",
+			"dmgType": "S",
+			"property": [
+				"BAN",
+                "L",
+                "T"
+			],
+            "range": "20/60",
+			"source": "SW"
+		},
+        {
+			"name": "Javelin",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 50,
+			"weight": 2,
+			"dmg1": "1d6",
+			"dmgType": "P",
+			"property": [
+                "T"
+			],
+            "range": "30/120",
+			"source": "SW"
+		},
+        {
+			"name": "Light Hammer",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 200,
+			"weight": 2,
+			"dmg1": "1d4",
+			"dmgType": "B",
+			"property": [
+				"L",
+                "SG",
+                "T"
+			],
+            "range": "20/60",
+			"source": "SW"
+		},
+        {
+			"name": "Mace",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 500,
+			"weight": 2,
+			"dmg1": "1d6",
+			"dmgType": "B",
+			"property": [
+                "SG"
+			],
+			"source": "SW"
+		},
+        {
+			"name": "Pike",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 300,
+			"weight": 12,
+			"dmg1": "2d4",
+			"dmgType": "P",
+			"property": [
+                "R",
+                "2H",
+                "HV",
+                "ICD"
+			],
+			"source": "SW"
+		},
+        {
+			"name": "Quarterstaff",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 20,
+			"weight": 4,
+			"dmg1": "1d6",
+			"dmgType": "B",
+			"property": [
+                "DBL"
+			],
+			"source": "SW"
+		},
+        {
+			"name": "Sickle",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 100,
+			"weight": 1,
+			"dmg1": "1d4",
+			"dmgType": "S",
+			"property": [
+                "F",
+                "L",
+                "PW"
+			],
+			"source": "SW"
+		},
+        {
+			"name": "Spear",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 100,
+			"weight": 3,
+			"dmg1": "1d6",
+            "dmg2": "1d8",
+			"dmgType": "P",
+			"property": [
+                "T",
+                "V",
+                "ICD"
+			],
+            "range": "20/60",
+			"source": "SW"
+		},
+        {
+			"name": "Whip",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 200,
+			"weight": 3,
+			"dmg1": "1d6",
+			"dmgType": "S",
+			"property": [
+                "ET",
+                "F",
+                "R"
+			],
+			"source": "SW"
+		},
+        {
+			"name": "Blowgun",
+			"type": "R",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 1000,
+			"weight": 1,
+			"dmg1": "1",
+			"dmgType": "P",
+			"property": [
+                "A",
+                "L",
+                "ICD"
+			],
+            "range": "25/100",
+			"source": "SW"
+		},
+        {
+			"name": "Light Crossbow",
+			"type": "R",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 2500,
+			"weight": 6,
+			"dmg1": "1d8",
+			"dmgType": "P",
+			"property": [
+                "A",
+                "L",
+                "ICR"
+			],
+            "range": "80/320",
+			"source": "SW"
+		},
+        {
+			"name": "Dart",
+			"type": "R",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 5,
+			"weight": 0.25,
+			"dmg1": "1d4",
+			"dmgType": "P",
+			"property": [
+                "BAN",
+                "COV",
+                "L",
+                "T"
+                
+			],
+            "range": "20/60",
+			"source": "SW"
+		},
+        {
+			"name": "Shortbow",
+			"type": "R",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 2500,
+			"weight": 6,
+			"dmg1": "1d6",
+			"dmgType": "P",
+			"property": [
+                "A",
+                "2H",
+                "ICD"
+			],
+            "range": "80/320",
+			"source": "SW"
+		},
+        {
+			"name": "Sling",
+			"type": "R",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 10,
+			"weight": 0,
+			"dmg1": "1d4",
+			"dmgType": "B",
+			"property": [
+                "A"
+			],
+            "range": "30/120",
+			"source": "SW"
+		}
+	]
+}
